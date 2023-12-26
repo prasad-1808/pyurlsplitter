@@ -23,3 +23,5 @@
         - -o | --output <output.txt>
      - pyurlsplitter -t <input.txt> -o <output.txt>
      - pyurlsplitter -h
+     - ![image](https://github.com/prasad-1808/pyurlsplitter/assets/86564180/8a57cddf-56d6-439c-8fb5-41188eff7226)
+
