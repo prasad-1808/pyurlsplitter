@@ -12,6 +12,8 @@
   - python urlsplitter.py -t <input.txt> -o <output.txt>
   - -t OR --target: Target input file
   - -o OR --output: Output file
+  - ![image](https://github.com/prasad-1808/pyurlsplitter/assets/86564180/46a27674-b7eb-4344-94c0-3b3d0775e1a6)
+
  
 - Using pip
     - pip install pyurlsplitter
