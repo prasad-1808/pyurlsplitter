@@ -1,0 +1,9 @@
+README.md
+setup.py
+pyurlsplitter/__init__.py
+pyurlsplitter/urlsplitter.py
+pyurlsplitter.egg-info/PKG-INFO
+pyurlsplitter.egg-info/SOURCES.txt
+pyurlsplitter.egg-info/dependency_links.txt
+pyurlsplitter.egg-info/entry_points.txt
+pyurlsplitter.egg-info/top_level.txt

@@ -1,0 +1,249 @@
+Sub directory list for https://touchmytown.com/customer/checkout
+
+https://touchmytown.com
+https://touchmytown.com/customer
+https://touchmytown.com/customer/checkout
+
+Sub directory list for https://touchmytown.com/customer/loginwithotp
+
+https://touchmytown.com
+https://touchmytown.com/customer
+https://touchmytown.com/customer/loginwithotp
+
+Sub directory list for https://touchmytown.com/customer/register
+
+https://touchmytown.com
+https://touchmytown.com/customer
+https://touchmytown.com/customer/register
+
+Sub directory list for https://touchmytown.com/customer/search1
+
+https://touchmytown.com
+https://touchmytown.com/customer
+https://touchmytown.com/customer/search1
+
+Sub directory list for https://touchmytown.com/customer/wishlist
+
+https://touchmytown.com
+https://touchmytown.com/customer
+https://touchmytown.com/customer/wishlist
+
+Sub directory list for https://touchmytown.com/fonts/Linearicons/Font/Linearicons.ttf
+
+https://touchmytown.com
+https://touchmytown.com/fonts
+https://touchmytown.com/fonts/Linearicons
+https://touchmytown.com/fonts/Linearicons/Font
+https://touchmytown.com/fonts/Linearicons/Font/Linearicons.ttf
+
+Sub directory list for https://touchmytown.com/home/sub_category_based/MjI=/MzE4/native-special-sweets
+
+https://touchmytown.com
+https://touchmytown.com/home
+https://touchmytown.com/home/sub_category_based
+https://touchmytown.com/home/sub_category_based/MjI=
+https://touchmytown.com/home/sub_category_based/MjI=/MzE4
+https://touchmytown.com/home/sub_category_based/MjI=/MzE4/native-special-sweets
+
+Sub directory list for https://touchmytown.com/images/flags/ae.svg
+
+https://touchmytown.com
+https://touchmytown.com/images
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags/ae.svg
+
+Sub directory list for https://touchmytown.com/images/flags/eu.svg
+
+https://touchmytown.com
+https://touchmytown.com/images
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags/eu.svg
+
+Sub directory list for https://touchmytown.com/images/flags/gb.svg
+
+https://touchmytown.com
+https://touchmytown.com/images
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags/gb.svg
+
+Sub directory list for https://touchmytown.com/images/flags/in.svg
+
+https://touchmytown.com
+https://touchmytown.com/images
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags/in.svg
+
+Sub directory list for https://touchmytown.com/images/flags/lk.svg
+
+https://touchmytown.com
+https://touchmytown.com/images
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags/lk.svg
+
+Sub directory list for https://touchmytown.com/images/flags/my.svg
+
+https://touchmytown.com
+https://touchmytown.com/images
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags/my.svg
+
+Sub directory list for https://touchmytown.com/images/flags/sa.svg
+
+https://touchmytown.com
+https://touchmytown.com/images
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags/sa.svg
+
+Sub directory list for https://touchmytown.com/images/flags/sg.svg
+
+https://touchmytown.com
+https://touchmytown.com/images
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags/sg.svg
+
+Sub directory list for https://touchmytown.com/images/flags/us.svg
+
+https://touchmytown.com
+https://touchmytown.com/images
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags/us.svg
+
+Sub directory list for https://touchmytown.com/js/main.js
+
+https://touchmytown.com
+https://touchmytown.com/js
+https://touchmytown.com/js/main.js
+
+Sub directory list for https://touchmytown.com/js/notify.js
+
+https://touchmytown.com
+https://touchmytown.com/js
+https://touchmytown.com/js/notify.js
+
+Sub directory list for https://touchmytown.com/plugins/bootstrap4/js/bootstrap.min.js
+
+https://touchmytown.com
+https://touchmytown.com/plugins
+https://touchmytown.com/plugins/bootstrap4
+https://touchmytown.com/plugins/bootstrap4/js
+https://touchmytown.com/plugins/bootstrap4/js/bootstrap.min.js
+
+Sub directory list for https://touchmytown.com/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+
+https://touchmytown.com
+https://touchmytown.com/plugins
+https://touchmytown.com/plugins/font-awesome
+https://touchmytown.com/plugins/font-awesome/fonts
+https://touchmytown.com/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+
+Sub directory list for https://touchmytown.com/plugins/jquery.min.js
+
+https://touchmytown.com
+https://touchmytown.com/plugins
+https://touchmytown.com/plugins/jquery.min.js
+
+Sub directory list for https://touchmytown.com/plugins/owl-carousel/owl.carousel.min.js
+
+https://touchmytown.com
+https://touchmytown.com/plugins
+https://touchmytown.com/plugins/owl-carousel
+https://touchmytown.com/plugins/owl-carousel/owl.carousel.min.js
+
+Sub directory list for https://touchmytown.com/plugins/popper.min.js
+
+https://touchmytown.com
+https://touchmytown.com/plugins
+https://touchmytown.com/plugins/popper.min.js
+
+Sub directory list for https://touchmytown.com/plugins/select2/dist/js/select2.full.min.js
+
+https://touchmytown.com
+https://touchmytown.com/plugins
+https://touchmytown.com/plugins/select2
+https://touchmytown.com/plugins/select2/dist
+https://touchmytown.com/plugins/select2/dist/js
+https://touchmytown.com/plugins/select2/dist/js/select2.full.min.js
+
+Sub directory list for https://touchmytown.com/plugins/slick/slick/slick.min.js 
+https://touchmytown.com
+https://touchmytown.com/plugins
+https://touchmytown.com/plugins/slick
+https://touchmytown.com/plugins/slick/slick
+https://touchmytown.com/plugins/slick/slick/slick.min.js 
+
+
+After removal of duplicated urls:
+https://touchmytown.com/customer
+https://touchmytown.com/customer
+https://touchmytown.com/customer
+https://touchmytown.com/customer
+https://touchmytown.com/customer
+https://touchmytown.com/customer/checkout
+https://touchmytown.com/customer/loginwithotp
+https://touchmytown.com/customer/register
+https://touchmytown.com/customer/search1
+https://touchmytown.com/customer/wishlist
+https://touchmytown.com/fonts
+https://touchmytown.com/fonts/Linearicons
+https://touchmytown.com/fonts/Linearicons/Font
+https://touchmytown.com/fonts/Linearicons/Font/Linearicons.ttf
+https://touchmytown.com/home
+https://touchmytown.com/home/sub_category_based
+https://touchmytown.com/home/sub_category_based/MjI=
+https://touchmytown.com/home/sub_category_based/MjI=/MzE4
+https://touchmytown.com/home/sub_category_based/MjI=/MzE4/native-special-sweets
+https://touchmytown.com/images
+https://touchmytown.com/images
+https://touchmytown.com/images
+https://touchmytown.com/images
+https://touchmytown.com/images
+https://touchmytown.com/images
+https://touchmytown.com/images
+https://touchmytown.com/images
+https://touchmytown.com/images
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags
+https://touchmytown.com/images/flags/ae.svg
+https://touchmytown.com/images/flags/eu.svg
+https://touchmytown.com/images/flags/gb.svg
+https://touchmytown.com/images/flags/in.svg
+https://touchmytown.com/images/flags/lk.svg
+https://touchmytown.com/images/flags/my.svg
+https://touchmytown.com/images/flags/sa.svg
+https://touchmytown.com/images/flags/sg.svg
+https://touchmytown.com/images/flags/us.svg
+https://touchmytown.com/js
+https://touchmytown.com/js
+https://touchmytown.com/js/main.js
+https://touchmytown.com/js/notify.js
+https://touchmytown.com/plugins
+https://touchmytown.com/plugins
+https://touchmytown.com/plugins
+https://touchmytown.com/plugins
+https://touchmytown.com/plugins
+https://touchmytown.com/plugins
+https://touchmytown.com/plugins
+https://touchmytown.com/plugins/bootstrap4
+https://touchmytown.com/plugins/bootstrap4/js
+https://touchmytown.com/plugins/bootstrap4/js/bootstrap.min.js
+https://touchmytown.com/plugins/font-awesome
+https://touchmytown.com/plugins/font-awesome/fonts
+https://touchmytown.com/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+https://touchmytown.com/plugins/jquery.min.js
+https://touchmytown.com/plugins/owl-carousel
+https://touchmytown.com/plugins/owl-carousel/owl.carousel.min.js
+https://touchmytown.com/plugins/popper.min.js
+https://touchmytown.com/plugins/select2
+https://touchmytown.com/plugins/select2/dist
+https://touchmytown.com/plugins/select2/dist/js
+https://touchmytown.com/plugins/select2/dist/js/select2.full.min.js
+https://touchmytown.com/plugins/slick
+https://touchmytown.com/plugins/slick/slick
+https://touchmytown.com/plugins/slick/slick/slick.min.js

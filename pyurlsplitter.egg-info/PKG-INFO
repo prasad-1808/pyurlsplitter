@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pyurlsplitter
+Version: 0.0.2
+Summary: A basic URL splitter tool
+Author: Prasad D
+Author-email: <prasadd.1808@gmail.com>
+Keywords: python,url,url-splitter,endpoint splitter,subdirectory,recon-tool
+
+A basic tool for generating different combinations of url with subdirectories for the given target urls
