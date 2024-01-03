@@ -3,9 +3,9 @@
 # Overview 🔍
 - PYURLSPLITTER is a Python tool designed for splitting a list of URLs provided in a text file.
 - This tool provides various options for the user.
-- `-h | --help`: To display the help menu.
-- `-t | --target`: To get the input file. 
-- `-o | --output`: To set the output file.
+  - `-h | --help`: To display the help menu.
+  - `-t | --target`: To get the input file. 
+  - `-o | --output`: To set the output file.
 - This tool parses through all the URLs in the file and generates an output file.
 - This output file is overwritten if already present, if not new file is created for the given name.
 - The output file contains an easily viewable list of URLs along with their different levels of subdomains.
@@ -43,7 +43,8 @@
         - -o | --output <output.txt>
      - `pyurlsplitter -t <input.txt> -o <output.txt>`
      - `pyurlsplitter -h`
-     - Reference Image of the tool ![image](https://github.com/prasad-1808/pyurlsplitter/assets/86564180/8a57cddf-56d6-439c-8fb5-41188eff7226)
+     - Reference Image of the tool ![image](https://github.com/prasad-1808/pyurlsplitter/assets/86564180/8a57cddf-56d6-439c-8fb5-41188eff7226) ![image](https://github.com/prasad-1808/pyurlsplitter/assets/86564180/08f3c96f-a1a8-4b0c-bc44-014be9065bf2)
+
 
 
 <br>
@@ -53,5 +54,7 @@
 <a href="https://www.linkedin.com/in/prasadd08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cybercheck Linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/cybercheck123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Cybercheck Instagram" height="30" width="40" /></a>
 <a href="https://cybercheck123.blogspot.com/" target="blank"><img align="center" src="https://www.logolynx.com/images/logolynx/2c/2c894af7d30a4bd555205cc153382753.png" alt="Cybercheck BlogPage" height="30" width="40" /></a>
+
+  ![](https://komarev.com/ghpvc/?username=prasad-1808)
 </p>
 
