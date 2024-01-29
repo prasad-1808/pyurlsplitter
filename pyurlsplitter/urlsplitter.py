@@ -10,7 +10,7 @@ def printHelp():
 	tool_name = "URL splitter"
 	
 	print("USAGE:")
-	print("  gazillionsplitterpython -t <url-list> -o <outputFile>")
+	print("  pyurlsplitter -t <url-list> -o <outputFile>")
 	
 	print("OPTIONS:")
 	print("  -t <worlist>: Specify the path to the URL list.")
@@ -18,8 +18,8 @@ def printHelp():
 	print("  -h: Display this help message.")
 	
 	print("EXAMPLE:")
-	print("gazillionsplitterpython -t wordlist.txt -o output.txt")
-	print("gazillionsplitterpython -t list.txt -o output.txt")
+	print("pyurlsplitter -t wordlist.txt -o output.txt")
+	print("pyurlsplitter -t list.txt -o output.txt")
 
 def printUsage():
 	tool_name = "URL splitter"
